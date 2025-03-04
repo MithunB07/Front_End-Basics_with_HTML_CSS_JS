@@ -27,27 +27,28 @@ Front_End-Basics_with_HTML_CSS_JS/
 │── script.js          # JavaScript file for interactions
 │── images/            # Folder for images (if any)
 └── README.md          # Project documentation
-📷 Screenshots (Optional)
-If you want, add screenshots of your project output here.
+```
+##📷 Screenshots 
 
-📖 Learning Outcomes
+
+##📖 Learning Outcomes
 By working on this project, you will:
 ✅ Understand the basics of HTML structure.
 ✅ Apply CSS for styling and layout.
 ✅ Use JavaScript for basic interactivity.
 
-🎯 Future Improvements
+##🎯 Future Improvements
 🔹 Add responsive design using CSS Flexbox/Grid.
 🔹 Implement advanced JavaScript concepts like event handling.
 🔹 Introduce a framework like Bootstrap for better UI.
 
-🏆 Contributing
+##🏆 Contributing
 If you find this project helpful, feel free to contribute, report issues, or suggest improvements! 🚀
 
-📝 License
+##📝 License
 This project is open-source under the MIT License. Feel free to use and modify it.
 
-📬 Contact & Support
+##📬 Contact & Support
 For any suggestions or feedback, reach out at:
-📧 Email: [your-email@example.com]
+📧 Email: [iammithunb@gmail.com]
 🔗 GitHub: MithunB07
