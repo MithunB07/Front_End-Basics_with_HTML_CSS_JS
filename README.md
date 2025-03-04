@@ -1,6 +1,6 @@
 # 🌐 Front-End Basics with HTML, CSS, and JavaScript  
 
-![Project Banner](https://via.placeholder.com/1000x300?text=Front-End+Basics)  
+
 
 ## 🚀 About the Project  
 
@@ -29,11 +29,37 @@ Front_End-Basics_with_HTML_CSS_JS/
 └── README.md          # Project documentation
 ```
 ## 📷 Screenshots 
+
+
+**Home**
+
+
 ![image](https://github.com/user-attachments/assets/4b9e7ed6-fc91-4a57-be8e-8f5bae210291)
+
+
+**Footer**
+
+
 ![image](https://github.com/user-attachments/assets/bf6ad2b3-f5b7-4f69-be54-9e5bc27e5f42)
+
+
+**Collections**
+
+
 ![image](https://github.com/user-attachments/assets/4bcb125a-4cf0-42ff-9ec0-aa55c1685094)
+
+
+**Search Functionality**
+
+
 ![image](https://github.com/user-attachments/assets/9230dec9-2dc1-4e62-bb09-87f22e3dbdf5)
+
+
+**Contact**
+
+
 ![image](https://github.com/user-attachments/assets/da8f1af5-7316-4804-8dc2-bf5abdce6e32)
+
 
 
 ## 📖 Learning Outcomes
